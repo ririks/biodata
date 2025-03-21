@@ -1,3 +1,3 @@
 # biodata
  
-![biodata](lib/assets/biodata1.gif)
+![biodata](biodata/lib/assets/biodata1.gif)
